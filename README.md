@@ -1,4 +1,4 @@
-Twitter 
+Twittler 
 
 Twittler is a basic twitter app to read your tweets.
 
@@ -18,7 +18,7 @@ The following **bonus** features are implemented:
 - [ ] User can load past tweets infinitely.
 
 
-# Twitter - Part II
+# Twittler - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
