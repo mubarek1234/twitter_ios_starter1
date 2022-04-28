@@ -1,6 +1,6 @@
 Twitter 
 
-**Name of your app** is a basic twitter app to read your tweets.
+Twittler is a basic twitter app to read your tweets.
 
 Time spent: **2** hours spent in total
 
